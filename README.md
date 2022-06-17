@@ -22,7 +22,7 @@ Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire<br />
 Breadboard<br />
 Arduino to USB connector cable<br />
 (9x) High intensity LEDs<br />
-(9x) Buttons<br />
+(10x) Buttons<br />
 Display 16x2 LCD
 
 # Team Members<br />
