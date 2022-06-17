@@ -2,12 +2,19 @@
 In this project, we implement 9 LEDs in 3x3 grid with coresponding buttons to push when these LEDs light up. In this Arduino based game, 
 LEDs will randomly light up through an algorithm implemented. When a correct button is pushed, player gets a point. There are 3 levels or difficulty stages,
 which can be set by a push button.
-
-
+<br />
+<br />
+# Circuit diagram 
 ![image](https://user-images.githubusercontent.com/107641521/174200899-04afba02-f5ae-47d0-871b-dc4dddaa8138.png)
 
-# Requirments List
+<br />
 
+
+![image](https://user-images.githubusercontent.com/107641521/174268479-fb459dae-41f7-4ebb-86df-75fc0784cdaa.png)
+
+
+# Requirments List
+<br />
 (1x) Piezo Speaker <br />
 (1x) Arduino Uno (Rev3) - ICSP type Arduino UNO (Rev3) - ICSP<br />
 (9x) 330Ω Resistor<br />
@@ -18,7 +25,7 @@ which can be set by a push button.
 (9x) Buttons<br />
 
 
-# Team Members
+# Team Members<br />
 Moeez Shakoor <br />
 Ahsan Shamim
 
