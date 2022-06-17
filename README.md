@@ -27,5 +27,5 @@ Display 16x2 LCD
 
 # Team Members<br />
 Moeez Shakoor <br />
-Ahsan Shamim
+Muhammad Ahsan Shamim
 
