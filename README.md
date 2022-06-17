@@ -15,15 +15,15 @@ which can be set by a push button.
 
 # Requirments List
 <br />
-(1x) Piezo Speaker <br />
-(1x) Arduino Uno (Rev3) - ICSP type Arduino UNO (Rev3) - ICSP<br />
-(9x) 330Ω Resistor<br />
-(20x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire<br />
-(1x) Breadboard<br />
-(1x) Arduino to USB connector cable<br />
+Beeper 780-0712 <br />
+Arduino Uno (Rev3) - ICSP type Arduino UNO (Rev3) - ICSP<br />
+Resistor<br />
+Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire<br />
+Breadboard<br />
+Arduino to USB connector cable<br />
 (9x) High intensity LEDs<br />
 (9x) Buttons<br />
-
+Display 16x2 LCD
 
 # Team Members<br />
 Moeez Shakoor <br />
