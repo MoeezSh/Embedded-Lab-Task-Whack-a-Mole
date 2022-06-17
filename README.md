@@ -8,7 +8,7 @@ which can be set by a push button.
 
 # Requirments List
 
-(1x) Piezo Speaker
+(1x) Piezo Speaker /n
 (1x) Arduino Uno (Rev3) - ICSP type Arduino UNO (Rev3) - ICSP
 (9x) 330Ω Resistor
 (20x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
