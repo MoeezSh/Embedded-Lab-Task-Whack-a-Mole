@@ -8,14 +8,14 @@ which can be set by a push button.
 
 # Requirments List
 
-(1x) Piezo Speaker /n
-(1x) Arduino Uno (Rev3) - ICSP type Arduino UNO (Rev3) - ICSP
-(9x) 330Ω Resistor
-(20x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire
-(1x) Breadboard
-(1x) Arduino to USB connector cable
-(9x) High intensity LEDs
-(9x) Buttons
+(1x) Piezo Speaker <br />
+(1x) Arduino Uno (Rev3) - ICSP type Arduino UNO (Rev3) - ICSP<br />
+(9x) 330Ω Resistor<br />
+(20x) Jumper Wire 40 x 20 cm Female Female, Male Male Cable Jumper 28 AWG Wire<br />
+(1x) Breadboard<br />
+(1x) Arduino to USB connector cable<br />
+(9x) High intensity LEDs<br />
+(9x) Buttons<br />
 
 
 
