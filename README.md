@@ -1,4 +1,5 @@
 # Embedded-Lab-Task-Whack-a-Mole
+
 In this project, we develop an Arduino-based Whack-A-Mole-like game using LEDs. Connect a 3x3 grid of LEDs to the Arduino. When the game starts, the LEDs should light up randomly for a given duration. When the mole-LED lights up, the player has to press a button to hit the mole. The results are shown on a serial monitor.
 
 <br />
@@ -6,8 +7,6 @@ In this project, we develop an Arduino-based Whack-A-Mole-like game using LEDs. 
 
 
 # Circuit diagram 
-
-<br />
 
 The LEDs are implemented according to the following diagram:
 <br />
