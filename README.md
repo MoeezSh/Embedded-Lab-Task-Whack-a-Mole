@@ -8,7 +8,6 @@ In this project, we develop an Arduino-based Whack-A-Mole-like game using LEDs. 
 # Circuit diagram 
 
 <br />
-<br />
 
 The LEDs are implemented according to the following diagram:
 <br />
